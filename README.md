@@ -102,13 +102,13 @@
 
 객체 | 클래스 아이디 | 객체 수
 :------ | :---: | :---:
-Person(사람) | c_1 | 0
-Fire Extinguisher(소화기) | c_2 | 0
-Fire Hydrant(소화전) | c_3|0
-Car(차량) | c_4 | 0
-Bicycle(자전거) | c_5 | 0
-Motorcycle(오토바이) | c_6 | 0
-합계 |  | 0
+Person(사람) | c_1 | 375
+Fire Extinguisher(소화기) | c_2 | 2
+Fire Hydrant(소화전) | c_3| 18
+Car(차량) | c_4 | 258
+Bicycle(자전거) | c_5 | 78
+Motorcycle(오토바이) | c_6 | 20
+합계 |  | 751
 
 ---
 
