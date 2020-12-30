@@ -2,9 +2,9 @@
 
 
 ## 1. 데이터 개요
+- 동영상 클립 수: 70
 - 해상도: 1920x1080(FHD)
-- 15fps (450frames/30seconds)
-- 
+- Frame rate: 15fps (450frames/30seconds)
 
 ---
 
